@@ -49,4 +49,8 @@ And with that, the basics are done and you have a bare-bones field computer. Not
 ###Acknowledgments
 
 BeagleBox was designed by Andrew Thaler. 
+
+###Code of Conduct
+
+Please review our [Contributor Code of Conduct](https://github.com/OceanographyforEveryone/BeagleBox/blob/master/CODE_OF_CONDUCT.md) prior to your first contribution. 
  
