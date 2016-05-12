@@ -16,7 +16,7 @@ Fieldwork is tough on equipment. You’re in the elements, facing wind, rain, an
 
 ###Overview
 
-Field equipment is often controlled via computer, and data entry mandates a computer, which means laptops need to be able to go out in the field. For graduate students and early career scientists on very tight funding budgets, this can be a dilemma. I’ve see the calculations happen as my colleagues prepare for the field: *do I take my one and only computer out into the field and risk damaging it, or do I leave it brute-force my way through sampling without it?* 
+Field equipment is often controlled via computer, and data entry mandates a computer, which means laptops need to be able to go out in the field. For graduate students and early career scientists on very tight funding budgets, this can be a dilemma. I’ve see the calculations happen as my colleagues prepare for the field: *do I take my one and only computer out into the field and risk damaging it, or do I leave it and try to brute-force my way through sampling without it?* 
 
 This equation is, counter-intuitively, getting worse. Sensors, sampling devices, and scanners are cheaper and lighter than ever before. Rather than buying a $20,000 piece of equipment, you can get a $20 plug-and-go component. The trade off is that these systems rely on external processing power, they need a general computer. That means your laptop is coming with you.
 
