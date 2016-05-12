@@ -8,6 +8,12 @@
 
 Fieldwork is tough on equipment. You’re in the elements, facing wind, rain, and salt spray, sometimes on an open boat far out in the Atlantic. You and your gear takes a beating. But you’re out there because there’s science that need to get done, and often that means bringing a computer with you.
 
+**The BeagleBox 2 running a Printrbot 3D-printer:**
+![The BeagleBox 2](http://www.southernfriedscience.com/wp-content/uploads/2016/05/beaglebox2.jpg)
+
+**The original BeagleBox:**
+![The BeagleBox](http://www.southernfriedscience.com/wp-content/uploads/2016/05/beaglebox.jpg)
+
 ###Overview
 
 Field equipment is often controlled via computer, and data entry mandates a computer, which means laptops need to be able to go out in the field. For graduate students and early career scientists on very tight funding budgets, this can be a dilemma. I’ve see the calculations happen as my colleagues prepare for the field: *do I take my one and only computer out into the field and risk damaging it, or do I leave it brute-force my way through sampling without it?* 
