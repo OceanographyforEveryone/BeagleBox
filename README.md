@@ -40,7 +40,7 @@ Almost all of the necessary parts can be found through Amazon. Visit our [Parts 
 
 4. Print the case. **BeagleBox:** Arrange all of the screen pieces and ensure that you have them in the correct orientation. Using hot glue, affix all the screen components together using the individual tabs for added support. Attache the screen to the back of the frame using heavy-duty tape. The two case components can be held in with friction, but a few dabs of hot glue will lock them in place. **BeagleBox 2:** The screen is designed such that it can only be assembled one way, dramatically simplifying the build. Use hot glue on the edges and overhangs to assemble the screen frame, then affix the screen with heavy-duty tape. The assembly fits *very* tightly into the Pelican case, but a few extra dabs of hot glue on the edges will prevent things from moving around. The case coms in four parts, which can be hot glued together along the edges and overhangs. Start with the lower parts and then affix the upper two quarters after all connector have been passed through. Glue the connectors into place with a dab of hot glue. 
 
-5. Tidu up the case. I use velcro tabs to keep everything from moving around inside the case and try to scrape as much excess hotglue off as possible to keep everything looking neat.  
+5. Tidy up the case. I use velcro tabs to keep everything from moving around inside the case and try to scrape as much excess hotglue off as possible to keep everything looking neat.  
 
 6. Download your prefered distribution of Linux and flash to your SCB. 
 
