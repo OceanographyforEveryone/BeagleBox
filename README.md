@@ -46,7 +46,7 @@ Almost all of the necessary parts can be found through Amazon. Visit our [Parts 
 
 ###About the Beagle
 
-I named the first BeagleBox after the BeagleBone Black used to power it. Since the BeagleBox 2 no longer uses it, I'm going to declare that all future iterations of the BeagleBox are named for the *HMS Beagle*, in honor of one of the greatest field biologists of all time.
+I named the first BeagleBox after the BeagleBone Black used to power it. Since the BeagleBox 2 no longer uses that SBC, I'm going to declare that all future iterations of the BeagleBox are named for the *HMS Beagle*, in honor of one of the greatest field biologists of all time.
 
 ###Acknowledgments
 
