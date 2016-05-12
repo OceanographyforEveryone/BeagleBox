@@ -18,7 +18,7 @@ The BeagleBox and BeagleBox 2 are designed to solve this problem. Rather than ta
 
 ###Project Status
 
-The first BeagleBox was a proof-of-concent prototype running Linux and LXDE on a BeagleBone Black. The case is basic and supports a 4-port USB hub and will fit most smaller, Raspberry Pi-size SBCs (single board computer).
+The first BeagleBox was a proof-of-concept prototype running Linux and LXDE on a BeagleBone Black. The case is basic and supports a 4-port USB hub and will fit most smaller, Raspberry Pi-size SBCs (single board computer).
 
 The BeagleBox 2 has been totally redesigned with an easy to assemble case that is tougher and allows for greater functionality. It supports a 4-post USB hub, audio out, ethernet-out without going into the case, and an external power port. It runs Ubuntu on a Pine64 SCB. Both BeagleBoxes can handle 12V DC power, which allows users to hook up to a variety of power options. 
 
